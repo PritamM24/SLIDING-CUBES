@@ -10,3 +10,8 @@ To play The Game
 Download The Build File and there you would find the .exe file. Currently available only on windows 
 
 To Make Changes you can download the entire File..............
+
+
+MOVEMENTS_
+A for left
+D for right
