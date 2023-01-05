@@ -1,17 +1,19 @@
-# SLIDING-CUBES
-New Starter Game made using Unity(basic).
+# Sliding_Cubes
+
+Game made with the help Of Unity Engine and C# language.
+
+Explores basic player movements,camera following scripts,starting window,
+End Credit screens,and other basic know how scripts that i learned from 
+the internet.
 
 
-Simplle 5 level Game with a open welceome scene and an end credit scenes.Scripts made using C# and the use of various UNITY UI is there.
+## Demo
 
-![Screenshot 2022-12-23 164636](https://user-images.githubusercontent.com/119864754/209327974-b75fa716-1531-44f4-80f3-468812f9905c.png)
-
-To play The Game 
-Download The Build File and there you would find the .exe file. Currently available only on windows 
-
-To Make Changes you can download the entire File..............
+https://user-images.githubusercontent.com/119864754/209327974-b75fa716-1531-44f4-80f3-468812f9905c.png
 
 
-MOVEMENTS_
-A for left
-D for right
+
+
+## 🚀 About Me
+I am a student trying to get into Game development and other useful 
+knowhow stuff including AR/VR development.
